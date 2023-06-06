@@ -15,7 +15,6 @@ function App() {
 }
 
 //footer 하단 고정
-//test
 const Nav = styled.div`
   display: flex;
   flex-direction: column;
